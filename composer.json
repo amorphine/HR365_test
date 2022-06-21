@@ -1,0 +1,19 @@
+{
+    "name": "amorphine/delivery-test",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Amorphine\\DeliveryTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pavel Fedin",
+            "email": "fe-pavel@yandex.ru"
+        }
+    ],
+    "require": {
+      "ext-json": "*"
+    }
+}
